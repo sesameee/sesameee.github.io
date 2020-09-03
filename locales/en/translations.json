@@ -246,5 +246,12 @@
     "order_q_9": "What is your return policy on electrical appliances?",
     "order_a_9": "According to the consumer protection legislation, you must return the product within 7 days of reception. Item must be returned in its original condition with the original tags attached, original packaging, complimentary gifts and all documents and product information.",
     "order_q_10": "Do you provide exchange service?",
-    "order_a_10": "We don't provide exchanges. If you are not satisfied with your item, please initiate the return process."
+    "order_a_10": "We don't provide exchanges. If you are not satisfied with your item, please initiate the return process.",
+    "logout": "logout",
+    "addedCart": "You have been added to the shopping cart",
+    "isDelete": "deleted",
+    "youAreLogin": "login success",
+    "youAreLogout": "logout",
+    "wishTips1": "existed",
+    "wishTips2": "You have been added to the wish list"
 }
