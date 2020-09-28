@@ -198,7 +198,7 @@
     "credit_card_pay_off_once": "Credit card (Pay off once)",
     "credit_card_number": "Credit card number",
     "credit_card_expire_date": "Expire date (month/date)",
-    "credit_card_last_three_number": "Last three number",
+    "credit_card_last_three_number": "Security Code",
     "submit_order": "Submit order",
     "confirm_submit_order": "Confirm submit order",
     "write_remark_if_need": "Please note order if needed",
@@ -253,5 +253,6 @@
     "youAreLogin": "login success",
     "youAreLogout": "logout",
     "wishTips1": "existed",
-    "wishTips2": "You have been added to the wish list"
+    "wishTips2": "You have been added to the wish list",
+    "credit_number": "credit number"
 }
